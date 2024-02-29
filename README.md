@@ -1,6 +1,6 @@
 # Appunti di Sistemi Robotici 🤖, A.A 2023/24
 
-**VISUALIZZABILI** [QUI (click me!)](https://darakuu.github.io/ottimizzazione_pages/)
+**VISUALIZZABILI** [QUI (click me!)](https://darakuu.github.io/sistemi_robotici/)
 
 Appunti di Sistemi Robotici. Collezione di informazioni raccolte dalle slide e dagli appunti presi a lezione.
 - File Markdown scritti con [Obsidian](https://obsidian.md/)
